@@ -1,0 +1,19 @@
+{
+  "name": "is-gryfice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszw82/is-gryfice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaszw82/is-gryfice/issues"
+  },
+  "homepage": "https://github.com/lukaszw82/is-gryfice#readme"
+}
